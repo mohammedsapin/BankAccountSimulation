@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1522257702 source:c:\users\moham\desktop\pm1 lab\pm1projectbank\function_file.cpp
+	"header_file.h"
+	<time.h>
+	<cstdlib>
+	<ctime>
+
+1522196710 c:\users\moham\desktop\pm1 lab\pm1projectbank\header_file.h
+	<iostream>
+	<string>
+	<vector>
+
+1522196768 source:c:\users\moham\desktop\pm1 lab\pm1projectbank\main.cpp
+	<iostream>
+	"header_file.h"
+
