@@ -1,1 +1,2 @@
 # BankAccountSimulation
+Our goal in this project is to create a simple banking system which allows a banker to manage different bank accounts. As a banker, you would create new accounts, deposit to an account, withdraw from an account, transfer money from one account to another, delete account, sort the accounts, or do inspection on one or all bank accounts. In order to do this job, you would need the tool for each of those items. The bank maintains a list of accounts. Write a program in C++ to meet the above requirements. 
